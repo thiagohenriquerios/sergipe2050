@@ -1,0 +1,613 @@
+{
+ "2013": {
+  "SE": {
+   "estrita": 209,
+   "ampla": 517,
+   "total": 405775
+  },
+  "AL": {
+   "estrita": 753,
+   "ampla": 916,
+   "total": 509125
+  },
+  "BA": {
+   "estrita": 9768,
+   "ampla": 12072,
+   "total": 2314907
+  },
+  "CE": {
+   "estrita": 3856,
+   "ampla": 5846,
+   "total": 1495923
+  },
+  "MA": {
+   "estrita": 4638,
+   "ampla": 4849,
+   "total": 721490
+  },
+  "PB": {
+   "estrita": 384,
+   "ampla": 651,
+   "total": 659242
+  },
+  "PE": {
+   "estrita": 2269,
+   "ampla": 5294,
+   "total": 1758482
+  },
+  "PI": {
+   "estrita": 786,
+   "ampla": 1230,
+   "total": 444121
+  },
+  "RN": {
+   "estrita": 808,
+   "ampla": 1884,
+   "total": 617645
+  }
+ },
+ "2014": {
+  "SE": {
+   "estrita": 256,
+   "ampla": 546,
+   "total": 417023
+  },
+  "AL": {
+   "estrita": 796,
+   "ampla": 953,
+   "total": 514391
+  },
+  "BA": {
+   "estrita": 9833,
+   "ampla": 12020,
+   "total": 2372583
+  },
+  "CE": {
+   "estrita": 3480,
+   "ampla": 5521,
+   "total": 1552447
+  },
+  "MA": {
+   "estrita": 3945,
+   "ampla": 4125,
+   "total": 738826
+  },
+  "PB": {
+   "estrita": 387,
+   "ampla": 666,
+   "total": 679180
+  },
+  "PE": {
+   "estrita": 2398,
+   "ampla": 5526,
+   "total": 1768543
+  },
+  "PI": {
+   "estrita": 816,
+   "ampla": 1128,
+   "total": 457730
+  },
+  "RN": {
+   "estrita": 944,
+   "ampla": 1931,
+   "total": 632140
+  }
+ },
+ "2015": {
+  "SE": {
+   "estrita": 303,
+   "ampla": 588,
+   "total": 404968
+  },
+  "AL": {
+   "estrita": 712,
+   "ampla": 885,
+   "total": 509275
+  },
+  "BA": {
+   "estrita": 8139,
+   "ampla": 10505,
+   "total": 2312404
+  },
+  "CE": {
+   "estrita": 4112,
+   "ampla": 6893,
+   "total": 1542759
+  },
+  "MA": {
+   "estrita": 3505,
+   "ampla": 3655,
+   "total": 722866
+  },
+  "PB": {
+   "estrita": 387,
+   "ampla": 664,
+   "total": 667030
+  },
+  "PE": {
+   "estrita": 2407,
+   "ampla": 5462,
+   "total": 1670335
+  },
+  "PI": {
+   "estrita": 1144,
+   "ampla": 1496,
+   "total": 460776
+  },
+  "RN": {
+   "estrita": 913,
+   "ampla": 1783,
+   "total": 608866
+  }
+ },
+ "2016": {
+  "SE": {
+   "estrita": 248,
+   "ampla": 506,
+   "total": 383073
+  },
+  "AL": {
+   "estrita": 650,
+   "ampla": 803,
+   "total": 490272
+  },
+  "BA": {
+   "estrita": 8805,
+   "ampla": 10655,
+   "total": 2171345
+  },
+  "CE": {
+   "estrita": 3815,
+   "ampla": 6658,
+   "total": 1443365
+  },
+  "MA": {
+   "estrita": 3461,
+   "ampla": 3598,
+   "total": 700200
+  },
+  "PB": {
+   "estrita": 437,
+   "ampla": 878,
+   "total": 634632
+  },
+  "PE": {
+   "estrita": 2228,
+   "ampla": 4818,
+   "total": 1585654
+  },
+  "PI": {
+   "estrita": 862,
+   "ampla": 1268,
+   "total": 441693
+  },
+  "RN": {
+   "estrita": 941,
+   "ampla": 1601,
+   "total": 585969
+  }
+ },
+ "2017": {
+  "SE": {
+   "estrita": 235,
+   "ampla": 479,
+   "total": 390462
+  },
+  "AL": {
+   "estrita": 714,
+   "ampla": 849,
+   "total": 486763
+  },
+  "BA": {
+   "estrita": 9080,
+   "ampla": 11594,
+   "total": 2223775
+  },
+  "CE": {
+   "estrita": 3912,
+   "ampla": 6602,
+   "total": 1464948
+  },
+  "MA": {
+   "estrita": 2301,
+   "ampla": 2412,
+   "total": 713051
+  },
+  "PB": {
+   "estrita": 489,
+   "ampla": 891,
+   "total": 638270
+  },
+  "PE": {
+   "estrita": 2770,
+   "ampla": 4910,
+   "total": 1584780
+  },
+  "PI": {
+   "estrita": 810,
+   "ampla": 1246,
+   "total": 453229
+  },
+  "RN": {
+   "estrita": 930,
+   "ampla": 1283,
+   "total": 588373
+  }
+ },
+ "2018": {
+  "AL": {
+   "estrita": 628,
+   "ampla": 788,
+   "total": 493858
+  },
+  "BA": {
+   "estrita": 9508,
+   "ampla": 12220,
+   "total": 2261558
+  },
+  "CE": {
+   "estrita": 4341,
+   "ampla": 7017,
+   "total": 1471704
+  },
+  "MA": {
+   "estrita": 2573,
+   "ampla": 2799,
+   "total": 747143
+  },
+  "PB": {
+   "estrita": 499,
+   "ampla": 931,
+   "total": 639404
+  },
+  "PE": {
+   "estrita": 2861,
+   "ampla": 4866,
+   "total": 1594551
+  },
+  "PI": {
+   "estrita": 835,
+   "ampla": 1332,
+   "total": 455268
+  },
+  "RN": {
+   "estrita": 1055,
+   "ampla": 1400,
+   "total": 594400
+  },
+  "SE": {
+   "estrita": 245,
+   "ampla": 506,
+   "total": 389351
+  }
+ },
+ "2019": {
+  "AL": {
+   "estrita": 623,
+   "ampla": 759,
+   "total": 486716
+  },
+  "BA": {
+   "estrita": 9063,
+   "ampla": 11515,
+   "total": 2202399
+  },
+  "CE": {
+   "estrita": 5002,
+   "ampla": 8027,
+   "total": 1478563
+  },
+  "MA": {
+   "estrita": 2098,
+   "ampla": 2381,
+   "total": 748528
+  },
+  "PB": {
+   "estrita": 564,
+   "ampla": 941,
+   "total": 643800
+  },
+  "PE": {
+   "estrita": 3239,
+   "ampla": 5508,
+   "total": 1577452
+  },
+  "PI": {
+   "estrita": 921,
+   "ampla": 1358,
+   "total": 460627
+  },
+  "RN": {
+   "estrita": 2309,
+   "ampla": 2701,
+   "total": 597452
+  },
+  "SE": {
+   "estrita": 385,
+   "ampla": 616,
+   "total": 352870
+  }
+ },
+ "2020": {
+  "AL": {
+   "estrita": 664,
+   "ampla": 756,
+   "total": 481543
+  },
+  "BA": {
+   "estrita": 8406,
+   "ampla": 10975,
+   "total": 2176188
+  },
+  "CE": {
+   "estrita": 5488,
+   "ampla": 8318,
+   "total": 1441497
+  },
+  "MA": {
+   "estrita": 2975,
+   "ampla": 3123,
+   "total": 744033
+  },
+  "PB": {
+   "estrita": 583,
+   "ampla": 958,
+   "total": 629136
+  },
+  "PE": {
+   "estrita": 2936,
+   "ampla": 5083,
+   "total": 1525279
+  },
+  "PI": {
+   "estrita": 963,
+   "ampla": 1362,
+   "total": 436375
+  },
+  "RN": {
+   "estrita": 2420,
+   "ampla": 2779,
+   "total": 568224
+  },
+  "SE": {
+   "estrita": 332,
+   "ampla": 548,
+   "total": 366054
+  }
+ },
+ "2021": {
+  "AL": {
+   "estrita": 663,
+   "ampla": 789,
+   "total": 522990
+  },
+  "BA": {
+   "estrita": 8937,
+   "ampla": 10793,
+   "total": 2353198
+  },
+  "CE": {
+   "estrita": 5985,
+   "ampla": 9122,
+   "total": 1528938
+  },
+  "MA": {
+   "estrita": 2287,
+   "ampla": 2411,
+   "total": 818989
+  },
+  "PB": {
+   "estrita": 585,
+   "ampla": 927,
+   "total": 676391
+  },
+  "PE": {
+   "estrita": 2593,
+   "ampla": 4650,
+   "total": 1663000
+  },
+  "PI": {
+   "estrita": 1041,
+   "ampla": 1434,
+   "total": 459729
+  },
+  "RN": {
+   "estrita": 2531,
+   "ampla": 2913,
+   "total": 615645
+  },
+  "SE": {
+   "estrita": 369,
+   "ampla": 591,
+   "total": 392070
+  }
+ },
+ "2022": {
+  "AL": {
+   "estrita": 809,
+   "ampla": 1068,
+   "total": 578837
+  },
+  "BA": {
+   "estrita": 10725,
+   "ampla": 12638,
+   "total": 2557040
+  },
+  "CE": {
+   "estrita": 5528,
+   "ampla": 9527,
+   "total": 1651737
+  },
+  "MA": {
+   "estrita": 2573,
+   "ampla": 2715,
+   "total": 913996
+  },
+  "PB": {
+   "estrita": 776,
+   "ampla": 1127,
+   "total": 728139
+  },
+  "PE": {
+   "estrita": 3017,
+   "ampla": 5122,
+   "total": 1784058
+  },
+  "PI": {
+   "estrita": 1149,
+   "ampla": 1469,
+   "total": 487123
+  },
+  "RN": {
+   "estrita": 2644,
+   "ampla": 3051,
+   "total": 658943
+  },
+  "SE": {
+   "estrita": 474,
+   "ampla": 726,
+   "total": 417135
+  }
+ },
+ "2023": {
+  "AL": {
+   "estrita": 892,
+   "ampla": 1165,
+   "total": 628342
+  },
+  "BA": {
+   "estrita": 11595,
+   "ampla": 13576,
+   "total": 2726118
+  },
+  "CE": {
+   "estrita": 5076,
+   "ampla": 9437,
+   "total": 1756484
+  },
+  "MA": {
+   "estrita": 2540,
+   "ampla": 2668,
+   "total": 955430
+  },
+  "PB": {
+   "estrita": 855,
+   "ampla": 1244,
+   "total": 793734
+  },
+  "PE": {
+   "estrita": 2924,
+   "ampla": 5152,
+   "total": 1905075
+  },
+  "PI": {
+   "estrita": 1250,
+   "ampla": 1609,
+   "total": 565799
+  },
+  "RN": {
+   "estrita": 1702,
+   "ampla": 2421,
+   "total": 692558
+  },
+  "SE": {
+   "estrita": 475,
+   "ampla": 781,
+   "total": 459326
+  }
+ },
+ "2024": {
+  "AL": {
+   "estrita": 972,
+   "ampla": 1246,
+   "total": 636259
+  },
+  "BA": {
+   "estrita": 12301,
+   "ampla": 14221,
+   "total": 2774157
+  },
+  "CE": {
+   "estrita": 5251,
+   "ampla": 9505,
+   "total": 1871093
+  },
+  "MA": {
+   "estrita": 2546,
+   "ampla": 2689,
+   "total": 977685
+  },
+  "PB": {
+   "estrita": 826,
+   "ampla": 1146,
+   "total": 811007
+  },
+  "PE": {
+   "estrita": 3197,
+   "ampla": 5472,
+   "total": 1919501
+  },
+  "PI": {
+   "estrita": 1275,
+   "ampla": 1651,
+   "total": 568830
+  },
+  "RN": {
+   "estrita": 1863,
+   "ampla": 2650,
+   "total": 709350
+  },
+  "SE": {
+   "estrita": 471,
+   "ampla": 785,
+   "total": 467807
+  }
+ },
+ "2025": {
+  "AL": {
+   "estrita": 1070,
+   "ampla": 1321,
+   "total": 718513
+  },
+  "BA": {
+   "estrita": 11682,
+   "ampla": 13526,
+   "total": 3042584
+  },
+  "CE": {
+   "estrita": 5239,
+   "ampla": 9870,
+   "total": 2068766
+  },
+  "MA": {
+   "estrita": 2234,
+   "ampla": 2356,
+   "total": 1073852
+  },
+  "PB": {
+   "estrita": 889,
+   "ampla": 1258,
+   "total": 914955
+  },
+  "PE": {
+   "estrita": 3262,
+   "ampla": 5496,
+   "total": 2097987
+  },
+  "PI": {
+   "estrita": 1280,
+   "ampla": 1698,
+   "total": 643554
+  },
+  "RN": {
+   "estrita": 1659,
+   "ampla": 2489,
+   "total": 751897
+  },
+  "SE": {
+   "estrita": 541,
+   "ampla": 857,
+   "total": 510658
+  }
+ }
+}

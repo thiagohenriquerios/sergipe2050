@@ -1,0 +1,162 @@
+{
+ "Sergipe": {
+  "2013": {
+   "estreita": 517,
+   "naodiv02": 515,
+   "divisao02": 37,
+   "divisao03": 153
+  },
+  "2014": {
+   "estreita": 546,
+   "naodiv02": 542,
+   "divisao02": 46,
+   "divisao03": 139
+  },
+  "2015": {
+   "estreita": 588,
+   "naodiv02": 584,
+   "divisao02": 53,
+   "divisao03": 126
+  },
+  "2016": {
+   "estreita": 506,
+   "naodiv02": 504,
+   "divisao02": 57,
+   "divisao03": 122
+  },
+  "2017": {
+   "estreita": 479,
+   "naodiv02": 477,
+   "divisao02": 50,
+   "divisao03": 134
+  },
+  "2018": {
+   "estreita": 506,
+   "naodiv02": 504,
+   "divisao02": 39,
+   "divisao03": 163
+  },
+  "2019": {
+   "estreita": 616,
+   "naodiv02": 611,
+   "divisao02": 63,
+   "divisao03": 181
+  },
+  "2020": {
+   "estreita": 548,
+   "naodiv02": 534,
+   "divisao02": 89,
+   "divisao03": 169
+  },
+  "2021": {
+   "estreita": 591,
+   "naodiv02": 574,
+   "divisao02": 112,
+   "divisao03": 174
+  },
+  "2022": {
+   "estreita": 726,
+   "naodiv02": 676,
+   "divisao02": 188,
+   "divisao03": 181
+  },
+  "2023": {
+   "estreita": 781,
+   "naodiv02": 753,
+   "divisao02": 189,
+   "divisao03": 170
+  },
+  "2024": {
+   "estreita": 785,
+   "naodiv02": 768,
+   "divisao02": 132,
+   "divisao03": 179
+  },
+  "2025": {
+   "estreita": 857,
+   "naodiv02": 778,
+   "divisao02": 151,
+   "divisao03": 171
+  }
+ },
+ "Nordeste": {
+  "2013": {
+   "estreita": 33259,
+   "naodiv02": 22837,
+   "divisao02": 19297,
+   "divisao03": 8719
+  },
+  "2014": {
+   "estreita": 32416,
+   "naodiv02": 22870,
+   "divisao02": 18054,
+   "divisao03": 9889
+  },
+  "2015": {
+   "estreita": 31931,
+   "naodiv02": 22740,
+   "divisao02": 16120,
+   "divisao03": 9363
+  },
+  "2016": {
+   "estreita": 30785,
+   "naodiv02": 22068,
+   "divisao02": 15474,
+   "divisao03": 7900
+  },
+  "2017": {
+   "estreita": 30266,
+   "naodiv02": 22588,
+   "divisao02": 14504,
+   "divisao03": 8868
+  },
+  "2018": {
+   "estreita": 31859,
+   "naodiv02": 23691,
+   "divisao02": 14668,
+   "divisao03": 9237
+  },
+  "2019": {
+   "estreita": 33806,
+   "naodiv02": 26403,
+   "divisao02": 13949,
+   "divisao03": 9265
+  },
+  "2020": {
+   "estreita": 33902,
+   "naodiv02": 26357,
+   "divisao02": 14230,
+   "divisao03": 8833
+  },
+  "2021": {
+   "estreita": 33630,
+   "naodiv02": 26697,
+   "divisao02": 15414,
+   "divisao03": 9308
+  },
+  "2022": {
+   "estreita": 37443,
+   "naodiv02": 28756,
+   "divisao02": 18102,
+   "divisao03": 9704
+  },
+  "2023": {
+   "estreita": 38053,
+   "naodiv02": 29862,
+   "divisao02": 17713,
+   "divisao03": 10001
+  },
+  "2024": {
+   "estreita": 39365,
+   "naodiv02": 30682,
+   "divisao02": 18217,
+   "divisao03": 10389
+  },
+  "2025": {
+   "estreita": 38871,
+   "naodiv02": 31008,
+   "divisao02": 17348,
+   "divisao03": 10468
+  }
+ }
+}

@@ -1,0 +1,2 @@
+Coloque aqui o logotipo oficial com o nome logo.png (fundo transparente, ~200 px de altura).
+Ele substitui automaticamente o "D" do cabecalho do painel.

@@ -1,0 +1,74 @@
+{
+ "com_eixo": {
+  "2023": {
+   "SE": {
+    "total": 14690,
+    "Produção alimentícia": 664,
+    "Recursos naturais": 939
+   },
+   "NE": {
+    "total": 675249,
+    "Recursos naturais": 53630,
+    "Produção alimentícia": 11327
+   }
+  },
+  "2024": {
+   "SE": {
+    "total": 15546,
+    "Produção alimentícia": 571,
+    "Recursos naturais": 811
+   },
+   "NE": {
+    "total": 724449,
+    "Recursos naturais": 54879,
+    "Produção alimentícia": 11952
+   }
+  },
+  "2025": {
+   "SE": {
+    "total": 16491,
+    "Produção alimentícia": 450,
+    "Recursos naturais": 664
+   },
+   "NE": {
+    "total": 737597,
+    "Recursos naturais": 56961,
+    "Produção alimentícia": 11663
+   }
+  }
+ },
+ "sem_eixo": {
+  "2015": {
+   "SE": 12202,
+   "NE": 485372
+  },
+  "2016": {
+   "SE": 10358,
+   "NE": 451508
+  },
+  "2017": {
+   "SE": 12506,
+   "NE": 487045
+  },
+  "2018": {
+   "SE": 12635,
+   "NE": 524656
+  },
+  "2019": {
+   "SE": 11774,
+   "NE": 554150
+  },
+  "2020": {
+   "SE": 13377,
+   "NE": 581611
+  },
+  "2021": {
+   "SE": 11880,
+   "NE": 588880
+  },
+  "2022": {
+   "SE": 13521,
+   "NE": 632120
+  }
+ }
+}

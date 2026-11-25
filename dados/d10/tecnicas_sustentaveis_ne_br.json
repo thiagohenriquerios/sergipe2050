@@ -1,0 +1,84 @@
+{
+ "2017": {
+  "organica_sim": {
+   "Brasil": 64690.0,
+   "Nordeste": 16710.0,
+   "Alagoas": 3387.0,
+   "Bahia": 694.0,
+   "Ceará": 416.0,
+   "Maranhão": 1440.0,
+   "Paraíba": 1883.0,
+   "Pernambuco": 5782.0,
+   "Piauí": 41.0,
+   "Rio Grande do Norte": 1872.0,
+   "Sergipe": 1195.0
+  },
+  "total": {
+   "Brasil": 5073324.0,
+   "Nordeste": 2322719.0,
+   "Alagoas": 98542.0,
+   "Bahia": 762848.0,
+   "Ceará": 394330.0,
+   "Maranhão": 219765.0,
+   "Paraíba": 163218.0,
+   "Pernambuco": 281688.0,
+   "Piauí": 245601.0,
+   "Rio Grande do Norte": 63452.0,
+   "Sergipe": 93275.0
+  },
+  "plantio_direto": {
+   "Brasil": 553382.0,
+   "Nordeste": 61163.0,
+   "Alagoas": 2109.0,
+   "Bahia": 8384.0,
+   "Ceará": 13131.0,
+   "Maranhão": 16759.0,
+   "Paraíba": 4787.0,
+   "Pernambuco": 13049.0,
+   "Piauí": 788.0,
+   "Rio Grande do Norte": 1076.0,
+   "Sergipe": 1080.0
+  }
+ },
+ "2006": {
+  "organica_sim": {
+   "Brasil": 90498.0,
+   "Nordeste": 42236.0,
+   "Alagoas": 2117.0,
+   "Bahia": 15194.0,
+   "Ceará": 4865.0,
+   "Maranhão": 3256.0,
+   "Paraíba": 3362.0,
+   "Pernambuco": 6425.0,
+   "Piauí": 3712.0,
+   "Rio Grande do Norte": 2266.0,
+   "Sergipe": 1039.0
+  },
+  "total": {
+   "Brasil": 5175636.0,
+   "Nordeste": 2454060.0,
+   "Alagoas": 123332.0,
+   "Bahia": 761558.0,
+   "Ceará": 381017.0,
+   "Maranhão": 287039.0,
+   "Paraíba": 167286.0,
+   "Pernambuco": 304790.0,
+   "Piauí": 245378.0,
+   "Rio Grande do Norte": 83053.0,
+   "Sergipe": 100607.0
+  },
+  "plantio_direto": {
+   "Brasil": 506667.0,
+   "Nordeste": 81930.0,
+   "Alagoas": 3668.0,
+   "Bahia": 19207.0,
+   "Ceará": 16426.0,
+   "Maranhão": 16282.0,
+   "Paraíba": 4477.0,
+   "Pernambuco": 8196.0,
+   "Piauí": 11587.0,
+   "Rio Grande do Norte": 824.0,
+   "Sergipe": 1263.0
+  }
+ }
+}

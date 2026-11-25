@@ -1,0 +1,1336 @@
+{
+ "comparador_NE": "PE",
+ "series": {
+  "SE": {
+   "2009": {
+    "vinculos": 11933,
+    "pop60": 180590,
+    "total_vinc": 344052,
+    "por_mil_60": 66.1,
+    "pct_emprego": 3.47
+   },
+   "2010": {
+    "vinculos": 18333,
+    "pop60": 187043,
+    "total_vinc": 369579,
+    "por_mil_60": 98.0,
+    "pct_emprego": 4.96
+   },
+   "2011": {
+    "vinculos": 19686,
+    "pop60": 193744,
+    "total_vinc": 385837,
+    "por_mil_60": 101.6,
+    "pct_emprego": 5.1
+   },
+   "2012": {
+    "vinculos": 20360,
+    "pop60": 200800,
+    "total_vinc": 388507,
+    "por_mil_60": 101.4,
+    "pct_emprego": 5.24
+   },
+   "2013": {
+    "vinculos": 21509,
+    "pop60": 208267,
+    "total_vinc": 405775,
+    "por_mil_60": 103.3,
+    "pct_emprego": 5.3
+   },
+   "2014": {
+    "vinculos": 22837,
+    "pop60": 216092,
+    "total_vinc": 417023,
+    "por_mil_60": 105.7,
+    "pct_emprego": 5.48
+   },
+   "2015": {
+    "vinculos": 25440,
+    "pop60": 224217,
+    "total_vinc": 404968,
+    "por_mil_60": 113.5,
+    "pct_emprego": 6.28
+   },
+   "2016": {
+    "vinculos": 23140,
+    "pop60": 232658,
+    "total_vinc": 383073,
+    "por_mil_60": 99.5,
+    "pct_emprego": 6.04
+   },
+   "2017": {
+    "vinculos": 24136,
+    "pop60": 241524,
+    "total_vinc": 390462,
+    "por_mil_60": 99.9,
+    "pct_emprego": 6.18
+   },
+   "2018": {
+    "vinculos": 25238,
+    "pop60": 250929,
+    "total_vinc": 389351,
+    "por_mil_60": 100.6,
+    "pct_emprego": 6.48
+   },
+   "2019": {
+    "vinculos": 25550,
+    "pop60": 260878,
+    "total_vinc": 352870,
+    "por_mil_60": 97.9,
+    "pct_emprego": 7.24
+   },
+   "2020": {
+    "vinculos": 25775,
+    "pop60": 270758,
+    "total_vinc": 366054,
+    "por_mil_60": 95.2,
+    "pct_emprego": 7.04
+   },
+   "2021": {
+    "vinculos": 25890,
+    "pop60": 280471,
+    "total_vinc": 392070,
+    "por_mil_60": 92.3,
+    "pct_emprego": 6.6
+   },
+   "2022": {
+    "vinculos": 27770,
+    "pop60": 291224,
+    "total_vinc": 417135,
+    "por_mil_60": 95.4,
+    "pct_emprego": 6.66
+   },
+   "2023": {
+    "vinculos": 29581,
+    "pop60": 303598,
+    "total_vinc": 455840,
+    "por_mil_60": 97.4,
+    "pct_emprego": 6.49
+   },
+   "2024": {
+    "vinculos": 30623,
+    "pop60": 317049,
+    "total_vinc": 462586,
+    "por_mil_60": 96.6,
+    "pct_emprego": 6.62
+   },
+   "2025": {
+    "vinculos": 31359,
+    "pop60": 330946,
+    "total_vinc": 505020,
+    "por_mil_60": 94.8,
+    "pct_emprego": 6.21
+   }
+  },
+  "NE": {
+   "2009": {
+    "vinculos": 234884,
+    "pop60": 5318918,
+    "total_vinc": 7422186,
+    "por_mil_60": 44.2,
+    "pct_emprego": 3.16
+   },
+   "2010": {
+    "vinculos": 255819,
+    "pop60": 5481802,
+    "total_vinc": 8010839,
+    "por_mil_60": 46.7,
+    "pct_emprego": 3.19
+   },
+   "2011": {
+    "vinculos": 281841,
+    "pop60": 5648113,
+    "total_vinc": 8481080,
+    "por_mil_60": 49.9,
+    "pct_emprego": 3.32
+   },
+   "2012": {
+    "vinculos": 301044,
+    "pop60": 5820794,
+    "total_vinc": 8613556,
+    "por_mil_60": 51.7,
+    "pct_emprego": 3.5
+   },
+   "2013": {
+    "vinculos": 321188,
+    "pop60": 6000720,
+    "total_vinc": 8926710,
+    "por_mil_60": 53.5,
+    "pct_emprego": 3.6
+   },
+   "2014": {
+    "vinculos": 343203,
+    "pop60": 6187754,
+    "total_vinc": 9132863,
+    "por_mil_60": 55.5,
+    "pct_emprego": 3.76
+   },
+   "2015": {
+    "vinculos": 353719,
+    "pop60": 6380848,
+    "total_vinc": 8899279,
+    "por_mil_60": 55.4,
+    "pct_emprego": 3.97
+   },
+   "2016": {
+    "vinculos": 366494,
+    "pop60": 6579657,
+    "total_vinc": 8436203,
+    "por_mil_60": 55.7,
+    "pct_emprego": 4.34
+   },
+   "2017": {
+    "vinculos": 379259,
+    "pop60": 6786474,
+    "total_vinc": 8543651,
+    "por_mil_60": 55.9,
+    "pct_emprego": 4.44
+   },
+   "2018": {
+    "vinculos": 402037,
+    "pop60": 7004192,
+    "total_vinc": 8647237,
+    "por_mil_60": 57.4,
+    "pct_emprego": 4.65
+   },
+   "2019": {
+    "vinculos": 427122,
+    "pop60": 7233983,
+    "total_vinc": 8548407,
+    "por_mil_60": 59.0,
+    "pct_emprego": 5.0
+   },
+   "2020": {
+    "vinculos": 457768,
+    "pop60": 7459032,
+    "total_vinc": 8368329,
+    "por_mil_60": 61.4,
+    "pct_emprego": 5.47
+   },
+   "2021": {
+    "vinculos": 489680,
+    "pop60": 7673443,
+    "total_vinc": 9030950,
+    "por_mil_60": 63.8,
+    "pct_emprego": 5.42
+   },
+   "2022": {
+    "vinculos": 535312,
+    "pop60": 7905831,
+    "total_vinc": 9777008,
+    "por_mil_60": 67.7,
+    "pct_emprego": 5.48
+   },
+   "2023": {
+    "vinculos": 588035,
+    "pop60": 8173561,
+    "total_vinc": 10388372,
+    "por_mil_60": 71.9,
+    "pct_emprego": 5.66
+   },
+   "2024": {
+    "vinculos": 616887,
+    "pop60": 8467135,
+    "total_vinc": 10609711,
+    "por_mil_60": 72.9,
+    "pct_emprego": 5.81
+   },
+   "2025": {
+    "vinculos": 652592,
+    "pop60": 8769374,
+    "total_vinc": 11686314,
+    "por_mil_60": 74.4,
+    "pct_emprego": 5.58
+   }
+  },
+  "BR": {
+   "2009": {
+    "vinculos": 1562880,
+    "pop60": 19999039,
+    "total_vinc": 41207546,
+    "por_mil_60": 78.1,
+    "pct_emprego": 3.79
+   },
+   "2010": {
+    "vinculos": 1650562,
+    "pop60": 20718042,
+    "total_vinc": 44068355,
+    "por_mil_60": 79.7,
+    "pct_emprego": 3.75
+   },
+   "2011": {
+    "vinculos": 1774241,
+    "pop60": 21475117,
+    "total_vinc": 46310631,
+    "por_mil_60": 82.6,
+    "pct_emprego": 3.83
+   },
+   "2012": {
+    "vinculos": 1905744,
+    "pop60": 22273483,
+    "total_vinc": 47458712,
+    "por_mil_60": 85.6,
+    "pct_emprego": 4.02
+   },
+   "2013": {
+    "vinculos": 2005874,
+    "pop60": 23115563,
+    "total_vinc": 48948433,
+    "por_mil_60": 86.8,
+    "pct_emprego": 4.1
+   },
+   "2014": {
+    "vinculos": 2131123,
+    "pop60": 23998696,
+    "total_vinc": 49571510,
+    "por_mil_60": 88.8,
+    "pct_emprego": 4.3
+   },
+   "2015": {
+    "vinculos": 2201061,
+    "pop60": 24917618,
+    "total_vinc": 48060807,
+    "por_mil_60": 88.3,
+    "pct_emprego": 4.58
+   },
+   "2016": {
+    "vinculos": 2240222,
+    "pop60": 25871388,
+    "total_vinc": 46060198,
+    "por_mil_60": 86.6,
+    "pct_emprego": 4.86
+   },
+   "2017": {
+    "vinculos": 2294186,
+    "pop60": 26861890,
+    "total_vinc": 46281590,
+    "por_mil_60": 85.4,
+    "pct_emprego": 4.96
+   },
+   "2018": {
+    "vinculos": 2378915,
+    "pop60": 27889518,
+    "total_vinc": 46631115,
+    "por_mil_60": 85.3,
+    "pct_emprego": 5.1
+   },
+   "2019": {
+    "vinculos": 2425595,
+    "pop60": 28950761,
+    "total_vinc": 46716492,
+    "por_mil_60": 83.8,
+    "pct_emprego": 5.19
+   },
+   "2020": {
+    "vinculos": 2557994,
+    "pop60": 29979443,
+    "total_vinc": 46236176,
+    "por_mil_60": 85.3,
+    "pct_emprego": 5.53
+   },
+   "2021": {
+    "vinculos": 2718399,
+    "pop60": 30903117,
+    "total_vinc": 48728857,
+    "por_mil_60": 88.0,
+    "pct_emprego": 5.58
+   },
+   "2022": {
+    "vinculos": 3021141,
+    "pop60": 31864499,
+    "total_vinc": 52788939,
+    "por_mil_60": 94.8,
+    "pct_emprego": 5.72
+   },
+   "2023": {
+    "vinculos": 3214373,
+    "pop60": 32981491,
+    "total_vinc": 55315903,
+    "por_mil_60": 97.5,
+    "pct_emprego": 5.81
+   },
+   "2024": {
+    "vinculos": 3373725,
+    "pop60": 34169617,
+    "total_vinc": 57121257,
+    "por_mil_60": 98.7,
+    "pct_emprego": 5.91
+   },
+   "2025": {
+    "vinculos": 3516610,
+    "pop60": 35370902,
+    "total_vinc": 59967880,
+    "por_mil_60": 99.4,
+    "pct_emprego": 5.86
+   }
+  },
+  "MA": {
+   "2009": {
+    "vinculos": 14595,
+    "pop60": 551776,
+    "total_vinc": 562275,
+    "por_mil_60": 26.5,
+    "pct_emprego": 2.6
+   },
+   "2010": {
+    "vinculos": 15600,
+    "pop60": 569541,
+    "total_vinc": 636625,
+    "por_mil_60": 27.4,
+    "pct_emprego": 2.45
+   },
+   "2011": {
+    "vinculos": 19378,
+    "pop60": 588110,
+    "total_vinc": 675274,
+    "por_mil_60": 32.9,
+    "pct_emprego": 2.87
+   },
+   "2012": {
+    "vinculos": 22519,
+    "pop60": 607561,
+    "total_vinc": 696348,
+    "por_mil_60": 37.1,
+    "pct_emprego": 3.23
+   },
+   "2013": {
+    "vinculos": 23745,
+    "pop60": 627797,
+    "total_vinc": 721490,
+    "por_mil_60": 37.8,
+    "pct_emprego": 3.29
+   },
+   "2014": {
+    "vinculos": 25560,
+    "pop60": 648553,
+    "total_vinc": 738826,
+    "por_mil_60": 39.4,
+    "pct_emprego": 3.46
+   },
+   "2015": {
+    "vinculos": 22446,
+    "pop60": 669661,
+    "total_vinc": 722866,
+    "por_mil_60": 33.5,
+    "pct_emprego": 3.11
+   },
+   "2016": {
+    "vinculos": 25176,
+    "pop60": 691009,
+    "total_vinc": 700200,
+    "por_mil_60": 36.4,
+    "pct_emprego": 3.6
+   },
+   "2017": {
+    "vinculos": 27334,
+    "pop60": 712680,
+    "total_vinc": 713051,
+    "por_mil_60": 38.4,
+    "pct_emprego": 3.83
+   },
+   "2018": {
+    "vinculos": 28103,
+    "pop60": 734932,
+    "total_vinc": 747143,
+    "por_mil_60": 38.2,
+    "pct_emprego": 3.76
+   },
+   "2019": {
+    "vinculos": 35610,
+    "pop60": 757967,
+    "total_vinc": 748528,
+    "por_mil_60": 47.0,
+    "pct_emprego": 4.76
+   },
+   "2020": {
+    "vinculos": 43017,
+    "pop60": 779524,
+    "total_vinc": 744033,
+    "por_mil_60": 55.2,
+    "pct_emprego": 5.78
+   },
+   "2021": {
+    "vinculos": 46264,
+    "pop60": 799035,
+    "total_vinc": 818989,
+    "por_mil_60": 57.9,
+    "pct_emprego": 5.65
+   },
+   "2022": {
+    "vinculos": 51093,
+    "pop60": 820329,
+    "total_vinc": 913996,
+    "por_mil_60": 62.3,
+    "pct_emprego": 5.59
+   },
+   "2023": {
+    "vinculos": 71850,
+    "pop60": 845215,
+    "total_vinc": 948843,
+    "por_mil_60": 85.0,
+    "pct_emprego": 7.57
+   },
+   "2024": {
+    "vinculos": 74166,
+    "pop60": 872681,
+    "total_vinc": 969147,
+    "por_mil_60": 85.0,
+    "pct_emprego": 7.65
+   },
+   "2025": {
+    "vinculos": 77799,
+    "pop60": 901599,
+    "total_vinc": 1064538,
+    "por_mil_60": 86.3,
+    "pct_emprego": 7.31
+   }
+  },
+  "PI": {
+   "2009": {
+    "vinculos": 16697,
+    "pop60": 323181,
+    "total_vinc": 351701,
+    "por_mil_60": 51.7,
+    "pct_emprego": 4.75
+   },
+   "2010": {
+    "vinculos": 17196,
+    "pop60": 333979,
+    "total_vinc": 377463,
+    "por_mil_60": 51.5,
+    "pct_emprego": 4.56
+   },
+   "2011": {
+    "vinculos": 20583,
+    "pop60": 345028,
+    "total_vinc": 393363,
+    "por_mil_60": 59.7,
+    "pct_emprego": 5.23
+   },
+   "2012": {
+    "vinculos": 21823,
+    "pop60": 356475,
+    "total_vinc": 418380,
+    "por_mil_60": 61.2,
+    "pct_emprego": 5.22
+   },
+   "2013": {
+    "vinculos": 21475,
+    "pop60": 368370,
+    "total_vinc": 444121,
+    "por_mil_60": 58.3,
+    "pct_emprego": 4.84
+   },
+   "2014": {
+    "vinculos": 23635,
+    "pop60": 380674,
+    "total_vinc": 457730,
+    "por_mil_60": 62.1,
+    "pct_emprego": 5.16
+   },
+   "2015": {
+    "vinculos": 24186,
+    "pop60": 393299,
+    "total_vinc": 460776,
+    "por_mil_60": 61.5,
+    "pct_emprego": 5.25
+   },
+   "2016": {
+    "vinculos": 24582,
+    "pop60": 406245,
+    "total_vinc": 441693,
+    "por_mil_60": 60.5,
+    "pct_emprego": 5.57
+   },
+   "2017": {
+    "vinculos": 25456,
+    "pop60": 419506,
+    "total_vinc": 453229,
+    "por_mil_60": 60.7,
+    "pct_emprego": 5.62
+   },
+   "2018": {
+    "vinculos": 24298,
+    "pop60": 433162,
+    "total_vinc": 455268,
+    "por_mil_60": 56.1,
+    "pct_emprego": 5.34
+   },
+   "2019": {
+    "vinculos": 26569,
+    "pop60": 447435,
+    "total_vinc": 460627,
+    "por_mil_60": 59.4,
+    "pct_emprego": 5.77
+   },
+   "2020": {
+    "vinculos": 25659,
+    "pop60": 461629,
+    "total_vinc": 436375,
+    "por_mil_60": 55.6,
+    "pct_emprego": 5.88
+   },
+   "2021": {
+    "vinculos": 26886,
+    "pop60": 475073,
+    "total_vinc": 459729,
+    "por_mil_60": 56.6,
+    "pct_emprego": 5.85
+   },
+   "2022": {
+    "vinculos": 20254,
+    "pop60": 489298,
+    "total_vinc": 487123,
+    "por_mil_60": 41.4,
+    "pct_emprego": 4.16
+   },
+   "2023": {
+    "vinculos": 26887,
+    "pop60": 506024,
+    "total_vinc": 561359,
+    "por_mil_60": 53.1,
+    "pct_emprego": 4.79
+   },
+   "2024": {
+    "vinculos": 28254,
+    "pop60": 524453,
+    "total_vinc": 563305,
+    "por_mil_60": 53.9,
+    "pct_emprego": 5.02
+   },
+   "2025": {
+    "vinculos": 32375,
+    "pop60": 543292,
+    "total_vinc": 637549,
+    "por_mil_60": 59.6,
+    "pct_emprego": 5.08
+   }
+  },
+  "CE": {
+   "2009": {
+    "vinculos": 37052,
+    "pop60": 885143,
+    "total_vinc": 1236261,
+    "por_mil_60": 41.9,
+    "pct_emprego": 3.0
+   },
+   "2010": {
+    "vinculos": 33429,
+    "pop60": 911854,
+    "total_vinc": 1325792,
+    "por_mil_60": 36.7,
+    "pct_emprego": 2.52
+   },
+   "2011": {
+    "vinculos": 38090,
+    "pop60": 939074,
+    "total_vinc": 1406906,
+    "por_mil_60": 40.6,
+    "pct_emprego": 2.71
+   },
+   "2012": {
+    "vinculos": 40132,
+    "pop60": 967152,
+    "total_vinc": 1423648,
+    "por_mil_60": 41.5,
+    "pct_emprego": 2.82
+   },
+   "2013": {
+    "vinculos": 44970,
+    "pop60": 996012,
+    "total_vinc": 1495923,
+    "por_mil_60": 45.2,
+    "pct_emprego": 3.01
+   },
+   "2014": {
+    "vinculos": 49600,
+    "pop60": 1025460,
+    "total_vinc": 1552447,
+    "por_mil_60": 48.4,
+    "pct_emprego": 3.19
+   },
+   "2015": {
+    "vinculos": 50613,
+    "pop60": 1055498,
+    "total_vinc": 1542759,
+    "por_mil_60": 48.0,
+    "pct_emprego": 3.28
+   },
+   "2016": {
+    "vinculos": 51763,
+    "pop60": 1085864,
+    "total_vinc": 1443365,
+    "por_mil_60": 47.7,
+    "pct_emprego": 3.59
+   },
+   "2017": {
+    "vinculos": 54859,
+    "pop60": 1116805,
+    "total_vinc": 1464948,
+    "por_mil_60": 49.1,
+    "pct_emprego": 3.74
+   },
+   "2018": {
+    "vinculos": 61158,
+    "pop60": 1149351,
+    "total_vinc": 1471704,
+    "por_mil_60": 53.2,
+    "pct_emprego": 4.16
+   },
+   "2019": {
+    "vinculos": 63532,
+    "pop60": 1184583,
+    "total_vinc": 1478563,
+    "por_mil_60": 53.6,
+    "pct_emprego": 4.3
+   },
+   "2020": {
+    "vinculos": 67780,
+    "pop60": 1219446,
+    "total_vinc": 1441497,
+    "por_mil_60": 55.6,
+    "pct_emprego": 4.7
+   },
+   "2021": {
+    "vinculos": 73863,
+    "pop60": 1253145,
+    "total_vinc": 1528938,
+    "por_mil_60": 58.9,
+    "pct_emprego": 4.83
+   },
+   "2022": {
+    "vinculos": 80236,
+    "pop60": 1291745,
+    "total_vinc": 1651737,
+    "por_mil_60": 62.1,
+    "pct_emprego": 4.86
+   },
+   "2023": {
+    "vinculos": 86784,
+    "pop60": 1336950,
+    "total_vinc": 1740163,
+    "por_mil_60": 64.9,
+    "pct_emprego": 4.99
+   },
+   "2024": {
+    "vinculos": 93002,
+    "pop60": 1387058,
+    "total_vinc": 1849369,
+    "por_mil_60": 67.0,
+    "pct_emprego": 5.03
+   },
+   "2025": {
+    "vinculos": 98694,
+    "pop60": 1438791,
+    "total_vinc": 2044831,
+    "por_mil_60": 68.6,
+    "pct_emprego": 4.83
+   }
+  },
+  "RN": {
+   "2009": {
+    "vinculos": 16884,
+    "pop60": 333879,
+    "total_vinc": 538757,
+    "por_mil_60": 50.6,
+    "pct_emprego": 3.13
+   },
+   "2010": {
+    "vinculos": 17695,
+    "pop60": 344114,
+    "total_vinc": 575026,
+    "por_mil_60": 51.4,
+    "pct_emprego": 3.08
+   },
+   "2011": {
+    "vinculos": 16087,
+    "pop60": 354133,
+    "total_vinc": 592444,
+    "por_mil_60": 45.4,
+    "pct_emprego": 2.72
+   },
+   "2012": {
+    "vinculos": 17150,
+    "pop60": 364227,
+    "total_vinc": 602226,
+    "por_mil_60": 47.1,
+    "pct_emprego": 2.85
+   },
+   "2013": {
+    "vinculos": 17451,
+    "pop60": 374583,
+    "total_vinc": 617645,
+    "por_mil_60": 46.6,
+    "pct_emprego": 2.83
+   },
+   "2014": {
+    "vinculos": 17990,
+    "pop60": 385457,
+    "total_vinc": 632140,
+    "por_mil_60": 46.7,
+    "pct_emprego": 2.85
+   },
+   "2015": {
+    "vinculos": 18330,
+    "pop60": 396884,
+    "total_vinc": 608866,
+    "por_mil_60": 46.2,
+    "pct_emprego": 3.01
+   },
+   "2016": {
+    "vinculos": 19096,
+    "pop60": 408859,
+    "total_vinc": 585969,
+    "por_mil_60": 46.7,
+    "pct_emprego": 3.26
+   },
+   "2017": {
+    "vinculos": 19551,
+    "pop60": 421450,
+    "total_vinc": 588373,
+    "por_mil_60": 46.4,
+    "pct_emprego": 3.32
+   },
+   "2018": {
+    "vinculos": 21133,
+    "pop60": 434915,
+    "total_vinc": 594400,
+    "por_mil_60": 48.6,
+    "pct_emprego": 3.56
+   },
+   "2019": {
+    "vinculos": 22392,
+    "pop60": 449383,
+    "total_vinc": 597452,
+    "por_mil_60": 49.8,
+    "pct_emprego": 3.75
+   },
+   "2020": {
+    "vinculos": 22958,
+    "pop60": 464426,
+    "total_vinc": 568224,
+    "por_mil_60": 49.4,
+    "pct_emprego": 4.04
+   },
+   "2021": {
+    "vinculos": 24868,
+    "pop60": 479720,
+    "total_vinc": 615645,
+    "por_mil_60": 51.8,
+    "pct_emprego": 4.04
+   },
+   "2022": {
+    "vinculos": 26337,
+    "pop60": 496367,
+    "total_vinc": 658943,
+    "por_mil_60": 53.1,
+    "pct_emprego": 4.0
+   },
+   "2023": {
+    "vinculos": 26776,
+    "pop60": 515158,
+    "total_vinc": 684442,
+    "por_mil_60": 52.0,
+    "pct_emprego": 3.91
+   },
+   "2024": {
+    "vinculos": 28137,
+    "pop60": 535876,
+    "total_vinc": 698905,
+    "por_mil_60": 52.5,
+    "pct_emprego": 4.03
+   },
+   "2025": {
+    "vinculos": 30753,
+    "pop60": 557142,
+    "total_vinc": 740730,
+    "por_mil_60": 55.2,
+    "pct_emprego": 4.15
+   }
+  },
+  "PB": {
+   "2009": {
+    "vinculos": 13578,
+    "pop60": 439555,
+    "total_vinc": 543375,
+    "por_mil_60": 30.9,
+    "pct_emprego": 2.5
+   },
+   "2010": {
+    "vinculos": 14799,
+    "pop60": 450549,
+    "total_vinc": 579504,
+    "por_mil_60": 32.8,
+    "pct_emprego": 2.55
+   },
+   "2011": {
+    "vinculos": 15532,
+    "pop60": 461611,
+    "total_vinc": 614813,
+    "por_mil_60": 33.6,
+    "pct_emprego": 2.53
+   },
+   "2012": {
+    "vinculos": 15320,
+    "pop60": 472896,
+    "total_vinc": 628047,
+    "por_mil_60": 32.4,
+    "pct_emprego": 2.44
+   },
+   "2013": {
+    "vinculos": 17065,
+    "pop60": 484542,
+    "total_vinc": 659242,
+    "por_mil_60": 35.2,
+    "pct_emprego": 2.59
+   },
+   "2014": {
+    "vinculos": 17822,
+    "pop60": 496705,
+    "total_vinc": 679180,
+    "por_mil_60": 35.9,
+    "pct_emprego": 2.62
+   },
+   "2015": {
+    "vinculos": 18686,
+    "pop60": 509209,
+    "total_vinc": 667030,
+    "por_mil_60": 36.7,
+    "pct_emprego": 2.8
+   },
+   "2016": {
+    "vinculos": 19535,
+    "pop60": 522086,
+    "total_vinc": 634632,
+    "por_mil_60": 37.4,
+    "pct_emprego": 3.08
+   },
+   "2017": {
+    "vinculos": 20305,
+    "pop60": 535594,
+    "total_vinc": 638270,
+    "por_mil_60": 37.9,
+    "pct_emprego": 3.18
+   },
+   "2018": {
+    "vinculos": 22002,
+    "pop60": 549992,
+    "total_vinc": 639404,
+    "por_mil_60": 40.0,
+    "pct_emprego": 3.44
+   },
+   "2019": {
+    "vinculos": 22628,
+    "pop60": 565546,
+    "total_vinc": 643800,
+    "por_mil_60": 40.0,
+    "pct_emprego": 3.51
+   },
+   "2020": {
+    "vinculos": 20966,
+    "pop60": 581312,
+    "total_vinc": 629136,
+    "por_mil_60": 36.1,
+    "pct_emprego": 3.33
+   },
+   "2021": {
+    "vinculos": 21618,
+    "pop60": 596678,
+    "total_vinc": 676391,
+    "por_mil_60": 36.2,
+    "pct_emprego": 3.2
+   },
+   "2022": {
+    "vinculos": 30977,
+    "pop60": 613099,
+    "total_vinc": 728139,
+    "por_mil_60": 50.5,
+    "pct_emprego": 4.25
+   },
+   "2023": {
+    "vinculos": 36019,
+    "pop60": 632688,
+    "total_vinc": 788395,
+    "por_mil_60": 56.9,
+    "pct_emprego": 4.57
+   },
+   "2024": {
+    "vinculos": 35696,
+    "pop60": 654939,
+    "total_vinc": 803308,
+    "por_mil_60": 54.5,
+    "pct_emprego": 4.44
+   },
+   "2025": {
+    "vinculos": 39694,
+    "pop60": 677937,
+    "total_vinc": 906586,
+    "por_mil_60": 58.6,
+    "pct_emprego": 4.38
+   }
+  },
+  "PE": {
+   "2009": {
+    "vinculos": 42781,
+    "pop60": 911481,
+    "total_vinc": 1399997,
+    "por_mil_60": 46.9,
+    "pct_emprego": 3.06
+   },
+   "2010": {
+    "vinculos": 52750,
+    "pop60": 938095,
+    "total_vinc": 1536626,
+    "por_mil_60": 56.2,
+    "pct_emprego": 3.43
+   },
+   "2011": {
+    "vinculos": 61145,
+    "pop60": 965141,
+    "total_vinc": 1648927,
+    "por_mil_60": 63.4,
+    "pct_emprego": 3.71
+   },
+   "2012": {
+    "vinculos": 64557,
+    "pop60": 993185,
+    "total_vinc": 1694647,
+    "por_mil_60": 65.0,
+    "pct_emprego": 3.81
+   },
+   "2013": {
+    "vinculos": 68869,
+    "pop60": 1022503,
+    "total_vinc": 1758482,
+    "por_mil_60": 67.4,
+    "pct_emprego": 3.92
+   },
+   "2014": {
+    "vinculos": 75850,
+    "pop60": 1053118,
+    "total_vinc": 1768543,
+    "por_mil_60": 72.0,
+    "pct_emprego": 4.29
+   },
+   "2015": {
+    "vinculos": 76910,
+    "pop60": 1084618,
+    "total_vinc": 1670335,
+    "por_mil_60": 70.9,
+    "pct_emprego": 4.6
+   },
+   "2016": {
+    "vinculos": 80600,
+    "pop60": 1116913,
+    "total_vinc": 1585654,
+    "por_mil_60": 72.2,
+    "pct_emprego": 5.08
+   },
+   "2017": {
+    "vinculos": 79590,
+    "pop60": 1150876,
+    "total_vinc": 1584780,
+    "por_mil_60": 69.2,
+    "pct_emprego": 5.02
+   },
+   "2018": {
+    "vinculos": 84945,
+    "pop60": 1187463,
+    "total_vinc": 1594551,
+    "por_mil_60": 71.5,
+    "pct_emprego": 5.33
+   },
+   "2019": {
+    "vinculos": 89871,
+    "pop60": 1226330,
+    "total_vinc": 1577452,
+    "por_mil_60": 73.3,
+    "pct_emprego": 5.7
+   },
+   "2020": {
+    "vinculos": 93261,
+    "pop60": 1262993,
+    "total_vinc": 1525279,
+    "por_mil_60": 73.8,
+    "pct_emprego": 6.11
+   },
+   "2021": {
+    "vinculos": 101852,
+    "pop60": 1296978,
+    "total_vinc": 1663000,
+    "por_mil_60": 78.5,
+    "pct_emprego": 6.12
+   },
+   "2022": {
+    "vinculos": 112072,
+    "pop60": 1334862,
+    "total_vinc": 1784058,
+    "por_mil_60": 84.0,
+    "pct_emprego": 6.28
+   },
+   "2023": {
+    "vinculos": 118033,
+    "pop60": 1378879,
+    "total_vinc": 1885928,
+    "por_mil_60": 85.6,
+    "pct_emprego": 6.26
+   },
+   "2024": {
+    "vinculos": 120660,
+    "pop60": 1426907,
+    "total_vinc": 1894387,
+    "por_mil_60": 84.6,
+    "pct_emprego": 6.37
+   },
+   "2025": {
+    "vinculos": 126138,
+    "pop60": 1476048,
+    "total_vinc": 2070688,
+    "por_mil_60": 85.5,
+    "pct_emprego": 6.09
+   }
+  },
+  "AL": {
+   "2009": {
+    "vinculos": 12444,
+    "pop60": 267692,
+    "total_vinc": 446136,
+    "por_mil_60": 46.5,
+    "pct_emprego": 2.79
+   },
+   "2010": {
+    "vinculos": 12767,
+    "pop60": 276644,
+    "total_vinc": 470992,
+    "por_mil_60": 46.1,
+    "pct_emprego": 2.71
+   },
+   "2011": {
+    "vinculos": 13823,
+    "pop60": 285876,
+    "total_vinc": 497898,
+    "por_mil_60": 48.4,
+    "pct_emprego": 2.78
+   },
+   "2012": {
+    "vinculos": 14484,
+    "pop60": 295597,
+    "total_vinc": 505132,
+    "por_mil_60": 49.0,
+    "pct_emprego": 2.87
+   },
+   "2013": {
+    "vinculos": 15718,
+    "pop60": 305820,
+    "total_vinc": 509125,
+    "por_mil_60": 51.4,
+    "pct_emprego": 3.09
+   },
+   "2014": {
+    "vinculos": 17729,
+    "pop60": 316416,
+    "total_vinc": 514391,
+    "por_mil_60": 56.0,
+    "pct_emprego": 3.45
+   },
+   "2015": {
+    "vinculos": 18749,
+    "pop60": 327090,
+    "total_vinc": 509275,
+    "por_mil_60": 57.3,
+    "pct_emprego": 3.68
+   },
+   "2016": {
+    "vinculos": 19215,
+    "pop60": 337806,
+    "total_vinc": 490272,
+    "por_mil_60": 56.9,
+    "pct_emprego": 3.92
+   },
+   "2017": {
+    "vinculos": 19713,
+    "pop60": 348918,
+    "total_vinc": 486763,
+    "por_mil_60": 56.5,
+    "pct_emprego": 4.05
+   },
+   "2018": {
+    "vinculos": 20638,
+    "pop60": 360668,
+    "total_vinc": 493858,
+    "por_mil_60": 57.2,
+    "pct_emprego": 4.18
+   },
+   "2019": {
+    "vinculos": 20993,
+    "pop60": 373059,
+    "total_vinc": 486716,
+    "por_mil_60": 56.3,
+    "pct_emprego": 4.31
+   },
+   "2020": {
+    "vinculos": 22186,
+    "pop60": 384940,
+    "total_vinc": 481543,
+    "por_mil_60": 57.6,
+    "pct_emprego": 4.61
+   },
+   "2021": {
+    "vinculos": 22987,
+    "pop60": 396164,
+    "total_vinc": 522990,
+    "por_mil_60": 58.0,
+    "pct_emprego": 4.4
+   },
+   "2022": {
+    "vinculos": 27263,
+    "pop60": 408273,
+    "total_vinc": 578837,
+    "por_mil_60": 66.8,
+    "pct_emprego": 4.71
+   },
+   "2023": {
+    "vinculos": 26755,
+    "pop60": 422277,
+    "total_vinc": 622826,
+    "por_mil_60": 63.4,
+    "pct_emprego": 4.3
+   },
+   "2024": {
+    "vinculos": 27988,
+    "pop60": 437667,
+    "total_vinc": 628753,
+    "por_mil_60": 63.9,
+    "pct_emprego": 4.45
+   },
+   "2025": {
+    "vinculos": 28982,
+    "pop60": 453604,
+    "total_vinc": 710386,
+    "por_mil_60": 63.9,
+    "pct_emprego": 4.08
+   }
+  },
+  "BA": {
+   "2009": {
+    "vinculos": 68920,
+    "pop60": 1425621,
+    "total_vinc": 1999632,
+    "por_mil_60": 48.3,
+    "pct_emprego": 3.45
+   },
+   "2010": {
+    "vinculos": 73250,
+    "pop60": 1469983,
+    "total_vinc": 2139232,
+    "por_mil_60": 49.8,
+    "pct_emprego": 3.42
+   },
+   "2011": {
+    "vinculos": 77517,
+    "pop60": 1515396,
+    "total_vinc": 2265618,
+    "por_mil_60": 51.2,
+    "pct_emprego": 3.42
+   },
+   "2012": {
+    "vinculos": 84699,
+    "pop60": 1562901,
+    "total_vinc": 2256621,
+    "por_mil_60": 54.2,
+    "pct_emprego": 3.75
+   },
+   "2013": {
+    "vinculos": 90386,
+    "pop60": 1612826,
+    "total_vinc": 2314907,
+    "por_mil_60": 56.0,
+    "pct_emprego": 3.9
+   },
+   "2014": {
+    "vinculos": 92180,
+    "pop60": 1665279,
+    "total_vinc": 2372583,
+    "por_mil_60": 55.4,
+    "pct_emprego": 3.89
+   },
+   "2015": {
+    "vinculos": 98359,
+    "pop60": 1720372,
+    "total_vinc": 2312404,
+    "por_mil_60": 57.2,
+    "pct_emprego": 4.25
+   },
+   "2016": {
+    "vinculos": 103387,
+    "pop60": 1778217,
+    "total_vinc": 2171345,
+    "por_mil_60": 58.1,
+    "pct_emprego": 4.76
+   },
+   "2017": {
+    "vinculos": 108315,
+    "pop60": 1839121,
+    "total_vinc": 2223775,
+    "por_mil_60": 58.9,
+    "pct_emprego": 4.87
+   },
+   "2018": {
+    "vinculos": 114522,
+    "pop60": 1902780,
+    "total_vinc": 2261558,
+    "por_mil_60": 60.2,
+    "pct_emprego": 5.06
+   },
+   "2019": {
+    "vinculos": 119977,
+    "pop60": 1968802,
+    "total_vinc": 2202399,
+    "por_mil_60": 60.9,
+    "pct_emprego": 5.45
+   },
+   "2020": {
+    "vinculos": 136166,
+    "pop60": 2034004,
+    "total_vinc": 2176188,
+    "por_mil_60": 66.9,
+    "pct_emprego": 6.26
+   },
+   "2021": {
+    "vinculos": 145452,
+    "pop60": 2096179,
+    "total_vinc": 2353198,
+    "por_mil_60": 69.4,
+    "pct_emprego": 6.18
+   },
+   "2022": {
+    "vinculos": 159310,
+    "pop60": 2160634,
+    "total_vinc": 2557040,
+    "por_mil_60": 73.7,
+    "pct_emprego": 6.23
+   },
+   "2023": {
+    "vinculos": 165350,
+    "pop60": 2232772,
+    "total_vinc": 2700576,
+    "por_mil_60": 74.1,
+    "pct_emprego": 6.12
+   },
+   "2024": {
+    "vinculos": 178361,
+    "pop60": 2310505,
+    "total_vinc": 2739951,
+    "por_mil_60": 77.2,
+    "pct_emprego": 6.51
+   },
+   "2025": {
+    "vinculos": 186798,
+    "pop60": 2390015,
+    "total_vinc": 3005986,
+    "por_mil_60": 78.2,
+    "pct_emprego": 6.21
+   }
+  }
+ }
+}

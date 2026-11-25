@@ -1,0 +1,452 @@
+{
+ "280010": {
+  "nome": "Amparo do São Francisco",
+  "microrregiao": "Propriá",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Baixo São Francisco"
+ },
+ "280020": {
+  "nome": "Aquidabã",
+  "microrregiao": "Nossa Senhora das Dores",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280030": {
+  "nome": "Aracaju",
+  "microrregiao": "Aracaju",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Aracaju"
+ },
+ "280040": {
+  "nome": "Arauá",
+  "microrregiao": "Boquim",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280050": {
+  "nome": "Areia Branca",
+  "microrregiao": "Agreste de Itabaiana",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280060": {
+  "nome": "Barra dos Coqueiros",
+  "microrregiao": "Aracaju",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Entorno de Aracaju"
+ },
+ "280067": {
+  "nome": "Boquim",
+  "microrregiao": "Boquim",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280070": {
+  "nome": "Brejo Grande",
+  "microrregiao": "Propriá",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Baixo São Francisco"
+ },
+ "280100": {
+  "nome": "Campo do Brito",
+  "microrregiao": "Agreste de Itabaiana",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280110": {
+  "nome": "Canhoba",
+  "microrregiao": "Propriá",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Baixo São Francisco"
+ },
+ "280120": {
+  "nome": "Canindé de São Francisco",
+  "microrregiao": "Sergipana do Sertão do São Francisco",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280130": {
+  "nome": "Capela",
+  "microrregiao": "Cotinguiba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280140": {
+  "nome": "Carira",
+  "microrregiao": "Carira",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280150": {
+  "nome": "Carmópolis",
+  "microrregiao": "Baixo Cotinguiba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280160": {
+  "nome": "Cedro de São João",
+  "microrregiao": "Propriá",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Baixo São Francisco"
+ },
+ "280170": {
+  "nome": "Cristinápolis",
+  "microrregiao": "Boquim",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280190": {
+  "nome": "Cumbe",
+  "microrregiao": "Nossa Senhora das Dores",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280200": {
+  "nome": "Divina Pastora",
+  "microrregiao": "Cotinguiba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280210": {
+  "nome": "Estância",
+  "microrregiao": "Estância",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280220": {
+  "nome": "Feira Nova",
+  "microrregiao": "Sergipana do Sertão do São Francisco",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280230": {
+  "nome": "Frei Paulo",
+  "microrregiao": "Carira",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280240": {
+  "nome": "Gararu",
+  "microrregiao": "Sergipana do Sertão do São Francisco",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280250": {
+  "nome": "General Maynard",
+  "microrregiao": "Baixo Cotinguiba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280260": {
+  "nome": "Graccho Cardoso",
+  "microrregiao": "Sergipana do Sertão do São Francisco",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280270": {
+  "nome": "Ilha das Flores",
+  "microrregiao": "Propriá",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Baixo São Francisco"
+ },
+ "280280": {
+  "nome": "Indiaroba",
+  "microrregiao": "Estância",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280290": {
+  "nome": "Itabaiana",
+  "microrregiao": "Agreste de Itabaiana",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280300": {
+  "nome": "Itabaianinha",
+  "microrregiao": "Boquim",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280310": {
+  "nome": "Itabi",
+  "microrregiao": "Sergipana do Sertão do São Francisco",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280320": {
+  "nome": "Itaporanga d'Ajuda",
+  "microrregiao": "Estância",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280330": {
+  "nome": "Japaratuba",
+  "microrregiao": "Japaratuba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280340": {
+  "nome": "Japoatã",
+  "microrregiao": "Japaratuba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280350": {
+  "nome": "Lagarto",
+  "microrregiao": "Agreste de Lagarto",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280360": {
+  "nome": "Laranjeiras",
+  "microrregiao": "Baixo Cotinguiba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280370": {
+  "nome": "Macambira",
+  "microrregiao": "Agreste de Itabaiana",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280380": {
+  "nome": "Malhada dos Bois",
+  "microrregiao": "Nossa Senhora das Dores",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280390": {
+  "nome": "Malhador",
+  "microrregiao": "Agreste de Itabaiana",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280400": {
+  "nome": "Maruim",
+  "microrregiao": "Baixo Cotinguiba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280410": {
+  "nome": "Moita Bonita",
+  "microrregiao": "Agreste de Itabaiana",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280420": {
+  "nome": "Monte Alegre de Sergipe",
+  "microrregiao": "Sergipana do Sertão do São Francisco",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280430": {
+  "nome": "Muribeca",
+  "microrregiao": "Nossa Senhora das Dores",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280440": {
+  "nome": "Neópolis",
+  "microrregiao": "Propriá",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Baixo São Francisco"
+ },
+ "280445": {
+  "nome": "Nossa Senhora Aparecida",
+  "microrregiao": "Carira",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280450": {
+  "nome": "Nossa Senhora da Glória",
+  "microrregiao": "Sergipana do Sertão do São Francisco",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280460": {
+  "nome": "Nossa Senhora das Dores",
+  "microrregiao": "Nossa Senhora das Dores",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280470": {
+  "nome": "Nossa Senhora de Lourdes",
+  "microrregiao": "Propriá",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Baixo São Francisco"
+ },
+ "280480": {
+  "nome": "Nossa Senhora do Socorro",
+  "microrregiao": "Aracaju",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Entorno de Aracaju"
+ },
+ "280490": {
+  "nome": "Pacatuba",
+  "microrregiao": "Japaratuba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280500": {
+  "nome": "Pedra Mole",
+  "microrregiao": "Carira",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280510": {
+  "nome": "Pedrinhas",
+  "microrregiao": "Boquim",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280520": {
+  "nome": "Pinhão",
+  "microrregiao": "Carira",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280530": {
+  "nome": "Pirambu",
+  "microrregiao": "Japaratuba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280540": {
+  "nome": "Poço Redondo",
+  "microrregiao": "Sergipana do Sertão do São Francisco",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280550": {
+  "nome": "Poço Verde",
+  "microrregiao": "Tobias Barreto",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280560": {
+  "nome": "Porto da Folha",
+  "microrregiao": "Sergipana do Sertão do São Francisco",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280570": {
+  "nome": "Propriá",
+  "microrregiao": "Propriá",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Baixo São Francisco"
+ },
+ "280580": {
+  "nome": "Riachão do Dantas",
+  "microrregiao": "Agreste de Lagarto",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280590": {
+  "nome": "Riachuelo",
+  "microrregiao": "Baixo Cotinguiba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280600": {
+  "nome": "Ribeirópolis",
+  "microrregiao": "Carira",
+  "mesorregiao": "Sertão Sergipano",
+  "grupo": "Sertão"
+ },
+ "280610": {
+  "nome": "Rosário do Catete",
+  "microrregiao": "Baixo Cotinguiba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280620": {
+  "nome": "Salgado",
+  "microrregiao": "Boquim",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280630": {
+  "nome": "Santa Luzia do Itanhy",
+  "microrregiao": "Estância",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280640": {
+  "nome": "Santana do São Francisco",
+  "microrregiao": "Propriá",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Baixo São Francisco"
+ },
+ "280650": {
+  "nome": "Santa Rosa de Lima",
+  "microrregiao": "Cotinguiba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280660": {
+  "nome": "Santo Amaro das Brotas",
+  "microrregiao": "Baixo Cotinguiba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280670": {
+  "nome": "São Cristóvão",
+  "microrregiao": "Aracaju",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Entorno de Aracaju"
+ },
+ "280680": {
+  "nome": "São Domingos",
+  "microrregiao": "Agreste de Itabaiana",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280690": {
+  "nome": "São Francisco",
+  "microrregiao": "Japaratuba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280700": {
+  "nome": "São Miguel do Aleixo",
+  "microrregiao": "Nossa Senhora das Dores",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280710": {
+  "nome": "Simão Dias",
+  "microrregiao": "Tobias Barreto",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280720": {
+  "nome": "Siriri",
+  "microrregiao": "Cotinguiba",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280730": {
+  "nome": "Telha",
+  "microrregiao": "Propriá",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Baixo São Francisco"
+ },
+ "280740": {
+  "nome": "Tobias Barreto",
+  "microrregiao": "Tobias Barreto",
+  "mesorregiao": "Agreste Sergipano",
+  "grupo": "Agreste"
+ },
+ "280750": {
+  "nome": "Tomar do Geru",
+  "microrregiao": "Boquim",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ },
+ "280760": {
+  "nome": "Umbaúba",
+  "microrregiao": "Boquim",
+  "mesorregiao": "Leste Sergipano",
+  "grupo": "Leste (litoral e zona da mata)"
+ }
+}

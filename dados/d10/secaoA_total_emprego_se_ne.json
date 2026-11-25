@@ -1,0 +1,496 @@
+{
+ "2013": {
+  "SE": {
+   "secaoA": 12325,
+   "total": 405775
+  },
+  "AL": {
+   "secaoA": 9519,
+   "total": 509125
+  },
+  "BA": {
+   "secaoA": 94510,
+   "total": 2314907
+  },
+  "CE": {
+   "secaoA": 25637,
+   "total": 1495923
+  },
+  "MA": {
+   "secaoA": 22848,
+   "total": 721490
+  },
+  "PB": {
+   "secaoA": 13628,
+   "total": 659242
+  },
+  "PE": {
+   "secaoA": 44307,
+   "total": 1758482
+  },
+  "PI": {
+   "secaoA": 8989,
+   "total": 444121
+  },
+  "RN": {
+   "secaoA": 15207,
+   "total": 617645
+  }
+ },
+ "2014": {
+  "SE": {
+   "secaoA": 13589,
+   "total": 417023
+  },
+  "AL": {
+   "secaoA": 8866,
+   "total": 514391
+  },
+  "BA": {
+   "secaoA": 94181,
+   "total": 2372583
+  },
+  "CE": {
+   "secaoA": 26553,
+   "total": 1552447
+  },
+  "MA": {
+   "secaoA": 22316,
+   "total": 738826
+  },
+  "PB": {
+   "secaoA": 13281,
+   "total": 679180
+  },
+  "PE": {
+   "secaoA": 46429,
+   "total": 1768543
+  },
+  "PI": {
+   "secaoA": 9222,
+   "total": 457730
+  },
+  "RN": {
+   "secaoA": 15834,
+   "total": 632140
+  }
+ },
+ "2015": {
+  "SE": {
+   "secaoA": 10767,
+   "total": 404968
+  },
+  "AL": {
+   "secaoA": 10467,
+   "total": 509275
+  },
+  "BA": {
+   "secaoA": 93260,
+   "total": 2312404
+  },
+  "CE": {
+   "secaoA": 27253,
+   "total": 1542759
+  },
+  "MA": {
+   "secaoA": 20497,
+   "total": 722866
+  },
+  "PB": {
+   "secaoA": 13000,
+   "total": 667030
+  },
+  "PE": {
+   "secaoA": 47063,
+   "total": 1670335
+  },
+  "PI": {
+   "secaoA": 8851,
+   "total": 460776
+  },
+  "RN": {
+   "secaoA": 16588,
+   "total": 608866
+  }
+ },
+ "2016": {
+  "SE": {
+   "secaoA": 10753,
+   "total": 383073
+  },
+  "AL": {
+   "secaoA": 10337,
+   "total": 490272
+  },
+  "BA": {
+   "secaoA": 93280,
+   "total": 2171345
+  },
+  "CE": {
+   "secaoA": 23112,
+   "total": 1443365
+  },
+  "MA": {
+   "secaoA": 21108,
+   "total": 700200
+  },
+  "PB": {
+   "secaoA": 13035,
+   "total": 634632
+  },
+  "PE": {
+   "secaoA": 49228,
+   "total": 1585654
+  },
+  "PI": {
+   "secaoA": 7587,
+   "total": 441693
+  },
+  "RN": {
+   "secaoA": 17362,
+   "total": 585969
+  }
+ },
+ "2017": {
+  "SE": {
+   "secaoA": 10727,
+   "total": 390462
+  },
+  "AL": {
+   "secaoA": 10587,
+   "total": 486763
+  },
+  "BA": {
+   "secaoA": 93873,
+   "total": 2223775
+  },
+  "CE": {
+   "secaoA": 22522,
+   "total": 1464948
+  },
+  "MA": {
+   "secaoA": 20939,
+   "total": 713051
+  },
+  "PB": {
+   "secaoA": 13577,
+   "total": 638270
+  },
+  "PE": {
+   "secaoA": 51153,
+   "total": 1584780
+  },
+  "PI": {
+   "secaoA": 8237,
+   "total": 453229
+  },
+  "RN": {
+   "secaoA": 17768,
+   "total": 588373
+  }
+ },
+ "2018": {
+  "AL": {
+   "secaoA": 10829,
+   "total": 493858
+  },
+  "BA": {
+   "secaoA": 94681,
+   "total": 2261558
+  },
+  "CE": {
+   "secaoA": 21922,
+   "total": 1471704
+  },
+  "MA": {
+   "secaoA": 21314,
+   "total": 747143
+  },
+  "PB": {
+   "secaoA": 14098,
+   "total": 639404
+  },
+  "PE": {
+   "secaoA": 52610,
+   "total": 1594551
+  },
+  "PI": {
+   "secaoA": 8781,
+   "total": 455268
+  },
+  "RN": {
+   "secaoA": 17946,
+   "total": 594400
+  },
+  "SE": {
+   "secaoA": 10627,
+   "total": 389351
+  }
+ },
+ "2019": {
+  "AL": {
+   "secaoA": 9335,
+   "total": 486716
+  },
+  "BA": {
+   "secaoA": 92359,
+   "total": 2202399
+  },
+  "CE": {
+   "secaoA": 20728,
+   "total": 1478563
+  },
+  "MA": {
+   "secaoA": 21364,
+   "total": 748528
+  },
+  "PB": {
+   "secaoA": 14837,
+   "total": 643800
+  },
+  "PE": {
+   "secaoA": 49612,
+   "total": 1577452
+  },
+  "PI": {
+   "secaoA": 8831,
+   "total": 460627
+  },
+  "RN": {
+   "secaoA": 18172,
+   "total": 597452
+  },
+  "SE": {
+   "secaoA": 10273,
+   "total": 352870
+  }
+ },
+ "2020": {
+  "AL": {
+   "secaoA": 9654,
+   "total": 481543
+  },
+  "BA": {
+   "secaoA": 95071,
+   "total": 2176188
+  },
+  "CE": {
+   "secaoA": 21457,
+   "total": 1441497
+  },
+  "MA": {
+   "secaoA": 22393,
+   "total": 744033
+  },
+  "PB": {
+   "secaoA": 15022,
+   "total": 629136
+  },
+  "PE": {
+   "secaoA": 48100,
+   "total": 1525279
+  },
+  "PI": {
+   "secaoA": 9267,
+   "total": 436375
+  },
+  "RN": {
+   "secaoA": 17595,
+   "total": 568224
+  },
+  "SE": {
+   "secaoA": 9602,
+   "total": 366054
+  }
+ },
+ "2021": {
+  "AL": {
+   "secaoA": 15847,
+   "total": 522990
+  },
+  "BA": {
+   "secaoA": 100752,
+   "total": 2353198
+  },
+  "CE": {
+   "secaoA": 22227,
+   "total": 1528938
+  },
+  "MA": {
+   "secaoA": 24539,
+   "total": 818989
+  },
+  "PB": {
+   "secaoA": 12724,
+   "total": 676391
+  },
+  "PE": {
+   "secaoA": 53918,
+   "total": 1663000
+  },
+  "PI": {
+   "secaoA": 10615,
+   "total": 459729
+  },
+  "RN": {
+   "secaoA": 18350,
+   "total": 615645
+  },
+  "SE": {
+   "secaoA": 11511,
+   "total": 392070
+  }
+ },
+ "2022": {
+  "AL": {
+   "secaoA": 17360,
+   "total": 578837
+  },
+  "BA": {
+   "secaoA": 118349,
+   "total": 2557040
+  },
+  "CE": {
+   "secaoA": 23277,
+   "total": 1651737
+  },
+  "MA": {
+   "secaoA": 30246,
+   "total": 913996
+  },
+  "PB": {
+   "secaoA": 15397,
+   "total": 728139
+  },
+  "PE": {
+   "secaoA": 58529,
+   "total": 1784058
+  },
+  "PI": {
+   "secaoA": 12586,
+   "total": 487123
+  },
+  "RN": {
+   "secaoA": 18582,
+   "total": 658943
+  },
+  "SE": {
+   "secaoA": 13096,
+   "total": 417135
+  }
+ },
+ "2023": {
+  "AL": {
+   "secaoA": 22221,
+   "total": 628342
+  },
+  "BA": {
+   "secaoA": 123252,
+   "total": 2726118
+  },
+  "CE": {
+   "secaoA": 24325,
+   "total": 1756484
+  },
+  "MA": {
+   "secaoA": 32316,
+   "total": 955430
+  },
+  "PB": {
+   "secaoA": 14818,
+   "total": 793734
+  },
+  "PE": {
+   "secaoA": 58320,
+   "total": 1905075
+  },
+  "PI": {
+   "secaoA": 13282,
+   "total": 565799
+  },
+  "RN": {
+   "secaoA": 19057,
+   "total": 692558
+  },
+  "SE": {
+   "secaoA": 12850,
+   "total": 459326
+  }
+ },
+ "2024": {
+  "AL": {
+   "secaoA": 21837,
+   "total": 636259
+  },
+  "BA": {
+   "secaoA": 127308,
+   "total": 2774157
+  },
+  "CE": {
+   "secaoA": 26652,
+   "total": 1871093
+  },
+  "MA": {
+   "secaoA": 32956,
+   "total": 977685
+  },
+  "PB": {
+   "secaoA": 15196,
+   "total": 811007
+  },
+  "PE": {
+   "secaoA": 59319,
+   "total": 1919501
+  },
+  "PI": {
+   "secaoA": 13796,
+   "total": 568830
+  },
+  "RN": {
+   "secaoA": 19974,
+   "total": 709350
+  },
+  "SE": {
+   "secaoA": 12402,
+   "total": 467807
+  }
+ },
+ "2025": {
+  "AL": {
+   "secaoA": 21897,
+   "total": 718513
+  },
+  "BA": {
+   "secaoA": 129515,
+   "total": 3042584
+  },
+  "CE": {
+   "secaoA": 28407,
+   "total": 2068766
+  },
+  "MA": {
+   "secaoA": 31973,
+   "total": 1073852
+  },
+  "PB": {
+   "secaoA": 14736,
+   "total": 914955
+  },
+  "PE": {
+   "secaoA": 60093,
+   "total": 2097987
+  },
+  "PI": {
+   "secaoA": 14490,
+   "total": 643554
+  },
+  "RN": {
+   "secaoA": 20975,
+   "total": 751897
+  },
+  "SE": {
+   "secaoA": 12160,
+   "total": 510658
+  }
+ }
+}

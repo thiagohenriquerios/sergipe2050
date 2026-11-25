@@ -1,0 +1,56 @@
+[
+ {
+  "produto": "Cana-de-açúcar",
+  "ano": 2024,
+  "sergipe_kg_ha": 55419.0,
+  "lider_ne": "Bahia",
+  "lider_kg_ha": 74768.0,
+  "gap_kg_ha": 19349.0,
+  "gap_pct": 34.91401865786102
+ },
+ {
+  "produto": "Tomate",
+  "ano": 2024,
+  "sergipe_kg_ha": 32968.0,
+  "lider_ne": "Ceará",
+  "lider_kg_ha": 72084.0,
+  "gap_kg_ha": 39116.0,
+  "gap_pct": 118.64838631400146
+ },
+ {
+  "produto": "Mamão",
+  "ano": 2024,
+  "sergipe_kg_ha": 25525.0,
+  "lider_ne": "Ceará",
+  "lider_kg_ha": 71317.0,
+  "gap_kg_ha": 45792.0,
+  "gap_pct": 179.4005876591577
+ },
+ {
+  "produto": "Abacaxi",
+  "ano": 2024,
+  "sergipe_kg_ha": 24668.0,
+  "lider_ne": "Paraíba",
+  "lider_kg_ha": 31946.0,
+  "gap_kg_ha": 7278.0,
+  "gap_pct": 29.50381060483217
+ },
+ {
+  "produto": "Manga",
+  "ano": 2024,
+  "sergipe_kg_ha": 23585.0,
+  "lider_ne": "Pernambuco",
+  "lider_kg_ha": 27708.0,
+  "gap_kg_ha": 4123.0,
+  "gap_pct": 17.481450074199703
+ },
+ {
+  "produto": "Melancia",
+  "ano": 2024,
+  "sergipe_kg_ha": 21458.0,
+  "lider_ne": "Pernambuco",
+  "lider_kg_ha": 31928.0,
+  "gap_kg_ha": 10470.0,
+  "gap_pct": 48.79299095908286
+ }
+]

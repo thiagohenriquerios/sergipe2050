@@ -1,0 +1,183 @@
+{
+ "tipos": [
+  "Reuniao de equipe",
+  "Reuniao com outras equipes de saude",
+  "Reuniao intersetorial / conselho local de saude / controle",
+  "Educacao em saude",
+  "Atendimento em grupo",
+  "Avaliacao / procedimento coletivo",
+  "Mobilizacao social"
+ ],
+ "por_tipo": {
+  "2014": {
+   "Reuniao de equipe": 848,
+   "Reuniao com outras equipes de saude": 291,
+   "Reuniao intersetorial / conselho local de saude / controle": 213,
+   "Educacao em saude": 2829,
+   "Atendimento em grupo": 747,
+   "Avaliacao / procedimento coletivo": 2365,
+   "Mobilizacao social": 1
+  },
+  "2015": {
+   "Reuniao de equipe": 2366,
+   "Reuniao com outras equipes de saude": 629,
+   "Reuniao intersetorial / conselho local de saude / controle": 477,
+   "Educacao em saude": 3913,
+   "Atendimento em grupo": 3113,
+   "Avaliacao / procedimento coletivo": 4005,
+   "Mobilizacao social": 166
+  },
+  "2016": {
+   "Reuniao de equipe": 3432,
+   "Reuniao com outras equipes de saude": 752,
+   "Reuniao intersetorial / conselho local de saude / controle": 566,
+   "Educacao em saude": 5345,
+   "Atendimento em grupo": 3839,
+   "Avaliacao / procedimento coletivo": 2747,
+   "Mobilizacao social": 364
+  },
+  "2017": {
+   "Reuniao de equipe": 5827,
+   "Reuniao com outras equipes de saude": 1773,
+   "Reuniao intersetorial / conselho local de saude / controle": 893,
+   "Educacao em saude": 10208,
+   "Atendimento em grupo": 6134,
+   "Avaliacao / procedimento coletivo": 5174,
+   "Mobilizacao social": 718
+  },
+  "2018": {
+   "Reuniao de equipe": 6032,
+   "Reuniao com outras equipes de saude": 1972,
+   "Reuniao intersetorial / conselho local de saude / controle": 890,
+   "Educacao em saude": 11611,
+   "Atendimento em grupo": 7975,
+   "Avaliacao / procedimento coletivo": 7471,
+   "Mobilizacao social": 706
+  },
+  "2019": {
+   "Reuniao de equipe": 6431,
+   "Reuniao com outras equipes de saude": 2135,
+   "Reuniao intersetorial / conselho local de saude / controle": 1249,
+   "Educacao em saude": 12318,
+   "Atendimento em grupo": 10302,
+   "Avaliacao / procedimento coletivo": 6196,
+   "Mobilizacao social": 830
+  },
+  "2020": {
+   "Reuniao de equipe": 4014,
+   "Reuniao com outras equipes de saude": 836,
+   "Reuniao intersetorial / conselho local de saude / controle": 297,
+   "Educacao em saude": 3748,
+   "Atendimento em grupo": 3811,
+   "Avaliacao / procedimento coletivo": 1741,
+   "Mobilizacao social": 472
+  },
+  "2021": {
+   "Reuniao de equipe": 4280,
+   "Reuniao com outras equipes de saude": 919,
+   "Reuniao intersetorial / conselho local de saude / controle": 404,
+   "Educacao em saude": 5085,
+   "Atendimento em grupo": 9114,
+   "Avaliacao / procedimento coletivo": 5466,
+   "Mobilizacao social": 285
+  },
+  "2022": {
+   "Reuniao de equipe": 3543,
+   "Reuniao com outras equipes de saude": 953,
+   "Reuniao intersetorial / conselho local de saude / controle": 389,
+   "Educacao em saude": 6342,
+   "Atendimento em grupo": 14782,
+   "Avaliacao / procedimento coletivo": 8162,
+   "Mobilizacao social": 380
+  },
+  "2023": {
+   "Reuniao de equipe": 5560,
+   "Reuniao com outras equipes de saude": 782,
+   "Reuniao intersetorial / conselho local de saude / controle": 268,
+   "Educacao em saude": 6020,
+   "Atendimento em grupo": 27146,
+   "Avaliacao / procedimento coletivo": 10289,
+   "Mobilizacao social": 249
+  },
+  "2024": {
+   "Reuniao de equipe": 4811,
+   "Reuniao com outras equipes de saude": 747,
+   "Reuniao intersetorial / conselho local de saude / controle": 300,
+   "Educacao em saude": 6183,
+   "Atendimento em grupo": 35610,
+   "Avaliacao / procedimento coletivo": 14533,
+   "Mobilizacao social": 295
+  },
+  "2025": {
+   "Reuniao de equipe": 5576,
+   "Reuniao com outras equipes de saude": 951,
+   "Reuniao intersetorial / conselho local de saude / controle": 416,
+   "Educacao em saude": 8870,
+   "Atendimento em grupo": 42997,
+   "Avaliacao / procedimento coletivo": 18935,
+   "Mobilizacao social": 351
+  }
+ },
+ "resumo": {
+  "2014": {
+   "atividades": 7294,
+   "participantes": 245659,
+   "media_part": 33.7
+  },
+  "2015": {
+   "atividades": 14669,
+   "participantes": 380103,
+   "media_part": 25.9
+  },
+  "2016": {
+   "atividades": 17045,
+   "participantes": 312493,
+   "media_part": 18.3
+  },
+  "2017": {
+   "atividades": 30727,
+   "participantes": 817504,
+   "media_part": 26.6
+  },
+  "2018": {
+   "atividades": 36657,
+   "participantes": 938071,
+   "media_part": 25.6
+  },
+  "2019": {
+   "atividades": 39461,
+   "participantes": 972847,
+   "media_part": 24.7
+  },
+  "2020": {
+   "atividades": 14919,
+   "participantes": 410565,
+   "media_part": 27.5
+  },
+  "2021": {
+   "atividades": 25553,
+   "participantes": 636170,
+   "media_part": 24.9
+  },
+  "2022": {
+   "atividades": 34551,
+   "participantes": 834367,
+   "media_part": 24.1
+  },
+  "2023": {
+   "atividades": 50314,
+   "participantes": 972968,
+   "media_part": 19.3
+  },
+  "2024": {
+   "atividades": 62479,
+   "participantes": 1120804,
+   "media_part": 17.9
+  },
+  "2025": {
+   "atividades": 78096,
+   "participantes": 1428895,
+   "media_part": 18.3
+  }
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "2018": {
+  "SE": "C",
+  "NE": {
+   "AL": "B",
+   "BA": "C",
+   "CE": "B",
+   "MA": "C",
+   "PB": "B",
+   "PE": "C",
+   "PI": "C",
+   "RN": "C",
+   "SE": "C"
+  },
+  "melhor_NE": "AL",
+  "melhor_NE_valor": "B"
+ },
+ "2019": {
+  "SE": "C",
+  "NE": {
+   "AL": "B",
+   "BA": "C",
+   "CE": "B",
+   "MA": "C",
+   "PB": "B",
+   "PE": "C",
+   "PI": "B",
+   "RN": "C",
+   "SE": "C"
+  },
+  "melhor_NE": "AL",
+  "melhor_NE_valor": "B"
+ },
+ "2020": {
+  "SE": "C",
+  "NE": {
+   "AL": "B",
+   "BA": "C",
+   "CE": "B",
+   "MA": "C",
+   "PB": "B",
+   "PE": "C",
+   "PI": "C",
+   "RN": "C",
+   "SE": "C"
+  },
+  "melhor_NE": "AL",
+  "melhor_NE_valor": "B"
+ },
+ "2021": {
+  "SE": "B",
+  "NE": {
+   "AL": "B",
+   "BA": "B",
+   "CE": "B",
+   "MA": "B",
+   "PB": "A",
+   "PE": "B",
+   "PI": "B",
+   "RN": "C",
+   "SE": "B"
+  },
+  "melhor_NE": "PB",
+  "melhor_NE_valor": "A"
+ },
+ "2022": {
+  "SE": "B",
+  "NE": {
+   "AL": "B",
+   "BA": "B",
+   "CE": "B",
+   "MA": "C",
+   "PB": "A",
+   "PE": "B",
+   "PI": "B",
+   "RN": "C",
+   "SE": "B"
+  },
+  "melhor_NE": "PB",
+  "melhor_NE_valor": "A"
+ },
+ "2023": {
+  "SE": "B",
+  "NE": {
+   "AL": "B",
+   "BA": "A",
+   "CE": "B",
+   "MA": "C",
+   "PB": "A",
+   "PE": "C",
+   "PI": "B",
+   "RN": "C",
+   "SE": "B"
+  },
+  "melhor_NE": "BA",
+  "melhor_NE_valor": "A"
+ },
+ "2024": {
+  "SE": "A",
+  "NE": {
+   "AL": "B",
+   "BA": "A+",
+   "CE": "A",
+   "MA": "B",
+   "PB": "A",
+   "PE": "B+",
+   "PI": "B+",
+   "RN": "C",
+   "SE": "A"
+  },
+  "melhor_NE": "BA",
+  "melhor_NE_valor": "A+"
+ },
+ "2025": {
+  "SE": "A",
+  "NE": {
+   "AL": "B+",
+   "BA": "B+",
+   "CE": "A+",
+   "MA": "A",
+   "PB": "A+",
+   "PE": "B+",
+   "PI": "B+",
+   "RN": "C",
+   "SE": "A"
+  },
+  "melhor_NE": "CE",
+  "melhor_NE_valor": "A+"
+ }
+}
