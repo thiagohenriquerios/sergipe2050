@@ -10,4 +10,4 @@ font = "sans serif"
 gatherUsageStats = false
 
 [server]
-headless = false
+headless = true   # servidor online; o iniciar_painel.bat abre o navegador com --server.headless false
